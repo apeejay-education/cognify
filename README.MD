@@ -5,13 +5,16 @@
 **Cognify** is the definitive **Unified Operating System** for coaching and training academies in India. Our mission is to eliminate "Operational Chaos" by providing a single, intelligent, and automated platform that manages every aspect of an institute's business—from sales and admissions to academics and finance—while **revolutionizing student engagement** through gamification and AI-driven personalization.
 
 ### The Problem We're Solving
+
 The Indian coaching and training industry ($40B+ market) suffers from:
+
 - **Operational Chaos**: Extreme administrative burden, fragmented communication, inefficient sales processes
 - **Trust Deficit**: Growing concerns from parents and students about institute credibility
 - **Low Engagement**: High dropout rates and lack of personalized learning experiences
 - **Scalability Issues**: Manual processes that don't scale with institute growth
 
 ### Strategic Goals (2025-2028)
+
 - **Market Leadership**: Become #1 coaching center management software in India within 3 years
 - **Efficiency Gains**: Reduce administrative workload by 40% for our clients
 - **Student Success**: Increase retention rates by 60% through gamification and personalization
